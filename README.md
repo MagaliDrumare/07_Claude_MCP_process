@@ -1,6 +1,7 @@
 # MCP Architecture Flow Diagrams
 
 Based on the MCP Server Primitives, here are three key interaction flows:
+https://claude.ai/public/artifacts/f072bfcf-9757-4edc-ac0c-f7bed5d37299
 
 ---
 
